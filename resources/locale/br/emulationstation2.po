@@ -38,7 +38,7 @@ msgstr "MODO DE INTERFACE"
 
 #: 
 msgid "PRELOAD UI"
-msgstr "Pré-carga UI"
+msgstr "Pré-carregamento da UI"
 
 #: 
 msgid "VSYNC"
@@ -50,7 +50,7 @@ msgstr "EXIBIR FAVORITOS PRIMEIRO EM GAMELIST"
 
 #: 
 msgid "OPTIMIZE IMAGES VRAM USE"
-msgstr "OTIMIZE O USO DO VRMAM COM IMAGENS"
+msgstr "OTIMIZE O USO DE VRAM DAS IMAGENS"
 
 #: 
 msgid "Full"
@@ -98,7 +98,7 @@ msgstr "instantâneo"
 
 #: 
 msgid "slide"
-msgstr "animado"
+msgstr "deslizar"
 
 #: 
 msgid "gridex"
@@ -106,11 +106,11 @@ msgstr "grade detalhada"
 
 #: 
 msgid "ENABLE NAVIGATION SOUNDS"
-msgstr "ATIVAR SOM DE NAVEGAÇÃO"
+msgstr "ATIVAR SONS DE NAVEGAÇÃO"
 
 #: 
 msgid "ENABLE VIDEO AUDIO"
-msgstr "ATIVAR AUDIO DE VIDEO"
+msgstr "ATIVAR ÁUDIO DE VIDEO"
 
 #: 
 msgid "APPLY FILTER"
@@ -146,7 +146,7 @@ msgstr "CRIAR NOVA COLEÇÃO PERSONALIZADA"
 
 #: 
 msgid "New Collection Name"
-msgstr "novo nome da coleção"
+msgstr "Novo Nome da Coleção"
 
 #: 
 msgid "Loading..."
@@ -154,11 +154,11 @@ msgstr "Carregando..."
 
 #: 
 msgid "GROUP UNTHEMED CUSTOM COLLECTIONS"
-msgstr "COLEÇÕES DE GRUPO SEM SISTEMA"
+msgstr "AGRUPAR COLEÇÕES SEM SISTEMA"
 
 #: 
 msgid "SORT CUSTOM COLLECTIONS AND SYSTEMS"
-msgstr "ORGANIZAÇÃO DE COLEÇÕES E SISTEMAS"
+msgstr "ORGANIZAR COLEÇÕES E SISTEMAS"
 
 #: 
 msgid "SHOW SYSTEM NAME IN COLLECTIONS"
@@ -166,7 +166,7 @@ msgstr "EXIBIR NOME DO SISTEMA NAS COLEÇÕES"
 
 #: 
 msgid "FINISH EDITING COLLECTION"
-msgstr "FINALIZAR COLEÇÃO"
+msgstr "FINALIZAR EDIÇÃO DE COLEÇÃO"
 
 #: 
 msgid "PARSE GAMESLISTS ONLY"
@@ -198,7 +198,7 @@ msgstr "REINICIAR TODOS OS FILTROS"
 
 #: 
 msgid "GAMELIST VIEW STYLE"
-msgstr "MODO DE VISUALIZAÇÃO, LISTA DE JOGO"
+msgstr "MODO DE VISUALIZAÇÃO DA LISTA DE JOGO"
 
 #: 
 msgid "GAME LAUNCH TRANSITION"
@@ -226,7 +226,7 @@ msgstr "Editor"
 
 #: 
 msgid "Genre"
-msgstr "Género"
+msgstr "Gênero"
 
 #: 
 msgid "Players"
@@ -289,8 +289,8 @@ msgid "WE CAN'T FIND ANY SYSTEMS!\n"
 "CHECK THAT YOUR PATHS ARE CORRECT IN THE SYSTEMS CONFIGURATION FILE, AND YOUR GAME DIRECTORY HAS AT LEAST ONE GAME WITH THE CORRECT EXTENSION.\n"
 "\n"
 ""
-msgstr "¡NÃO PODEMOS ENCONTRAR SISTEMAS! \ N "
-"" VERIFIQUE SE SUAS ESTRADAS ESTÃO CORRETAS NO ARQUIVO DE CONFIGURAÇÃO DO SISTEMA E SEU DIRETÓRIO DE JOGOS TEM PELO MENOS UM JOGO COM A EXTENSÃO CORRETA.\n"
+msgstr "NÃO ENCONTRAMOS SISTEMAS! \n"
+""VERIFIQUE SE OS CAMINHOS ESTÃO CORRETOS NO ARQUIVO DE CONFIGURAÇÃO E SE SEU DIRETÓRIO DE JOGOS TEM PELO MENOS UM JOGO COM A EXTENSÃO CORRETA.\n"
 "\n"
 ""
 
@@ -325,7 +325,7 @@ msgstr "SALVAR"
 #: 
 msgid "THIS WILL DELETE A FILE!\n"
 "ARE YOU SURE?"
-msgstr "¡ISTO APAGARÁ UM ARQUIVO! \ n "
+msgstr "ISTO APAGARÁ UM ARQUIVO!\n "
 "TEM CERTEZA?"
 
 #: 
@@ -342,7 +342,7 @@ msgstr "APAGAR"
 
 #: 
 msgid "SAVE CHANGES?"
-msgstr "¿SALVAR MUDANÇAS?"
+msgstr "SALVAR MUDANÇAS?"
 
 #: 
 msgid "BACK"
@@ -397,7 +397,7 @@ msgstr "ALTO (950Mhz)"
 
 #: 
 msgid "NONE (700Mhz)"
-msgstr "NENHUM (900Mhz)"
+msgstr "NENHUM (700Mhz)"
 
 #: 
 msgid "TURBO (1050Mhz)+"
@@ -450,7 +450,7 @@ msgstr "HABILITAR KODI"
 
 #: 
 msgid "KODI AT START"
-msgstr "AUTO INICIAR KODI"
+msgstr "KODI NA INICIALIZAÇÃO"
 
 #: 
 msgid "START KODI WITH X"
@@ -462,7 +462,7 @@ msgstr "SEGURANÇA"
 
 #: 
 msgid "ENFORCE SECURITY"
-msgstr "FORTALECER A SEGURANÇA"
+msgstr "REFORÇAR A SEGURANÇA"
 
 #: 
 msgid "ROOT PASSWORD"
@@ -478,7 +478,7 @@ msgstr "OPÇÕES DE JOGOS"
 
 #: 
 msgid "GAME RATIO"
-msgstr "FORMATO DE JOGO"
+msgstr "RAZÃO DO JOGO"
 
 #: 
 msgid "SMOOTH GAMES"
@@ -494,7 +494,7 @@ msgstr "AUTO SALVAR/CARREGAR"
 
 #: 
 msgid "SHADERS SET"
-msgstr "CONJUNTO DE SOMBRAS"
+msgstr "CONJUNTO DE SHADERS"
 
 #: 
 msgid "SCANLINES"
@@ -506,11 +506,11 @@ msgstr "RETRO"
 
 #: 
 msgid "RETROACHIEVEMENTS SETTINGS"
-msgstr "AJUSTAR RECOMPENSAS"
+msgstr "OPÇÕES DO RETROACHIEVEMETS"
 
 #: 
 msgid "RETROACHIEVEMENTS"
-msgstr "RECOMPENSAS"
+msgstr "RETROACHIEVEMENTS"
 
 #: 
 msgid "HARDCORE MODE"
@@ -518,7 +518,7 @@ msgstr "MODO HARDCORE"
 
 #: 
 msgid "USERNAME"
-msgstr "NOME DE USUARIO"
+msgstr "NOME DE USUÁRIO"
 
 #: 
 msgid "PASSWORD"
@@ -530,7 +530,7 @@ msgstr "AVANÇADO"
 
 #: 
 msgid "REALLY UPDATE GAMES LISTS ?"
-msgstr "¿REALMENTE QUER ATUALIZAR A LISTA DE JOGOS?"
+msgstr "REALMENTE QUER ATUALIZAR A LISTA DE JOGOS?"
 
 #: 
 msgid "UPDATE GAMES LISTS"
@@ -566,7 +566,7 @@ msgstr "ESTILO DE TRANSIÇÃO"
 
 #: 
 msgid "SCREENSAVER BEHAVIOR"
-msgstr "COMPORTAMENTO DE TELA"
+msgstr "COMPORTAMENTO DO SCREENSAVER"
 
 #: 
 msgid "dim"
@@ -586,7 +586,7 @@ msgstr "apresentação de slides"
 
 #: 
 msgid "VIDEO SCREENSAVER SETTINGS"
-msgstr "CONFIGURAÇÕES DO PROTETOR DE TELA"
+msgstr "CONFIGURAÇÕES DO SCREENSAVER"
 
 #: 
 msgid "VIDEO SCREENSAVER"
@@ -594,11 +594,11 @@ msgstr "PROTETOR DE TELA EM VÍDEO"
 
 #: 
 msgid "SWAP VIDEO AFTER (SECS)"
-msgstr "TROQUE O VÍDEO DEPOIS DE (Segundos)"
+msgstr "TROQUE O VÍDEO DEPOIS DE (SEGUNDOS)"
 
 #: 
 msgid "SHOW GAME INFO ON SCREENSAVER"
-msgstr "MOSTRAR INFORMAÇÕES DO JOGO"
+msgstr "MOSTRAR INFORMAÇÕES DO JOGO NO SCREENSAVER"
 
 #: 
 msgid "SHOW GAME INFO"
@@ -610,19 +610,19 @@ msgstr "UTILIZAR MARQUEE COMO INFORMAÇÕES DO JOGO"
 
 #: 
 msgid "STRETCH VIDEO ON SCREENSAVER"
-msgstr "ESTICAR VÍDEO DO PROTETOR DE TELA"
+msgstr "ESTICAR VÍDEO NO SCREENSAVER"
 
 #: 
 msgid "SLIDESHOW SCREENSAVER SETTINGS"
-msgstr "CONFIGURAÇÕES DA APRESENTAÇÃO DE SLIDES DE TELA"
+msgstr "CONFIGURAÇÕES DE SLIDES DO SCREENSAVER"
 
 #: 
 msgid "SLIDESHOW SCREENSAVER"
-msgstr "APRESENTAÇÃO DE SLIDES DE TELA"
+msgstr "SLIDES DO SCREENSAVER"
 
 #: 
 msgid "SWAP IMAGE AFTER (SECS)"
-msgstr "TROQUE A IMAGEM APÓS DE (SEGUNDOS)"
+msgstr "TROQUE A IMAGEM APÓS (SEGUNDOS)"
 
 #: 
 msgid "STRETCH IMAGES"
@@ -646,7 +646,7 @@ msgstr "FILTRO DE IMAGEM PERSONALIZADO"
 
 #: 
 msgid "SCREENSAVER CONTROLS"
-msgstr "CONTROLAR PROTETOR DE TELA"
+msgstr "CONTROLAR SCREENSAVER"
 
 #: 
 msgid "SHOW FRAMERATE"
@@ -678,7 +678,7 @@ msgstr "desativado"
 
 #: 
 msgid "disable"
-msgstr "desativado"
+msgstr "desativar"
 
 #: 
 msgid "default"
@@ -686,7 +686,7 @@ msgstr "padrão"
 
 #: 
 msgid "warning"
-msgstr "atenção"
+msgstr "aviso"
 
 #: 
 msgid "error"
@@ -718,7 +718,7 @@ msgstr "SELEÇÃO DE TEMAS"
 
 #: 
 msgid "SOUND SETTINGS"
-msgstr "CONFIGURAR AUDIO"
+msgstr "CONFIGURAÇÕES DE AUDIO"
 
 #: 
 msgid "SYSTEM VOLUME"
@@ -759,7 +759,7 @@ msgstr "AUTO"
 
 #: 
 msgid "NETWORK SETTINGS"
-msgstr "OPÇÕES DE RED"
+msgstr "OPÇÕES DE REDE"
 
 #: 
 msgid "CONNECTED"
@@ -771,7 +771,7 @@ msgstr "NÃO CONECTADO"
 
 #: 
 msgid "STATUS"
-msgstr "ESTADO"
+msgstr "STATUS"
 
 #: 
 msgid "IP ADDRESS"
@@ -779,7 +779,7 @@ msgstr "ENDEREÇO ​​DE IP"
 
 #: 
 msgid "HOSTNAME"
-msgstr "NOME DO HOST"
+msgstr "HOSTNAME"
 
 #: 
 msgid "ENABLE WIFI"
@@ -815,15 +815,15 @@ msgstr "SERVIDOR SCRAPE"
 
 #: 
 msgid "IMAGE SOURCE"
-msgstr "TIPO DE IMAGEM"
+msgstr "FONTE DA IMAGEM"
 
 #: 
 msgid "BOX SOURCE"
-msgstr "TIPO DE BOX"
+msgstr "FONTE DA CAIXA"
 
 #: 
 msgid "LOGO SOURCE"
-msgstr "TIPO DE LOGO"
+msgstr "FONTE DA LOGO"
 
 #: 
 msgid "SCRAPE RATINGS"
@@ -831,11 +831,11 @@ msgstr "CLASSIFICAÇÕES DE SCRAPER"
 
 #: 
 msgid "SCRAPE VIDEOS"
-msgstr "VÍDEOS SCRAPE"
+msgstr "SCRAPE VÍDEOS"
 
 #: 
 msgid "SCRAPE NOW"
-msgstr "SCRAPE AGORA""
+msgstr "SCRAPE AGORA"
 
 #: 
 msgid "QUIT"
@@ -875,7 +875,7 @@ msgstr "Núcleo"
 
 #: 
 msgid "YOU ARE GOING TO CONFIGURE A CONTROLLER. IF YOU HAVE ONLY ONE JOYSTICK, CONFIGURE THE DIRECTIONS KEYS AND SKIP JOYSTICK CONFIG BY HOLDING A BUTTON. IF YOU DO NOT HAVE A SPECIAL KEY FOR HOTKEY, CHOOSE THE SELECT BUTTON. SKIP ALL BUTTONS YOU DO NOT HAVE BY HOLDING A KEY. BUTTONS NAMES ARE BASED ON THE SNES CONTROLLER."
-msgstr "CONFIGURAR UM CONTROLE, SE VOCÊ TIVER SÓ UM JOYSTICK OU OUTRO CONTROLADOR, CONFIGURE APENAS OS BOTÕES QUE VOCÊ TEM NO SEU CONTROLADOR OU CONTROLE. SE VOCÊ NÃO TIVER UMA CHAVE ESPECIAL PARA O HOTKEY, USE O SELECT E IGNORE OS BOTÕES QUE NÃO ESTÃO NO SEU CONTROLE. VOCÊ NÃO PODE USAR UM BOTÃO CONFIGURADO NOVAMENTE. O NOME DOS BOTÕES SÃO BASEADOS NO CONTROLE DE SUPER NINTENDO."
+msgstr "VOCÊ VAI CONFIGURAR UM CONTROLE. SE VOCÊ TEM SÓ UM JOYSTICK OU OUTRO CONTROLADOR, CONFIGURE APENAS AS TECLAS DE DIREÇÃO E PULE A CONFIGURAÇÃO DO JOYSTICK SEGURANDO UM BOTÃO. SE VOCÊ NÃO TIVER UMA TECLA ESPECIAL PARA O HOTKEY, USE O SELECT. PULE TODOS OS BOTÕES QUE SEU CONTROLE NÃO POSSUIR SEGURANDO UM BOTÃO. O NOME DOS BOTÕES SÃO BASEADOS NO CONTROLE DE SUPER NINTENDO."
 
 #. GUIMENU
 #: 
@@ -897,7 +897,7 @@ msgstr "OCORREU UM ERRO"
 
 #: 
 msgid "NO CONTROLLERS FOUND"
-msgstr "CONTROLE NÃO ENCONTRADO"
+msgstr "NENHUM CONTROLE ENCONTRADO"
 
 #: 
 msgid "PAIR A BLUETOOTH CONTROLLER"
@@ -929,7 +929,7 @@ msgstr "OPÇÕES"
 
 #: 
 msgid "JUMP TO LETTER"
-msgstr "SALTAR PARA LETRA O NÚMERO"
+msgstr "SALTAR PARA LETRA OU NÚMERO"
 
 #: 
 msgid "SORT GAMES BY"
@@ -984,8 +984,8 @@ msgstr "INICIAR"
 #: 
 msgid "WARNING: SOME OF YOUR SELECTED SYSTEMS DO NOT HAVE A PLATFORM SET. RESULTS MAY BE EVEN MORE INACCURATE THAN USUAL!\n"
 "CONTINUE ANYWAY?"
-msgstr "AVISO: ALGUNS DOS SEUS SISTEMAS SELECIONADOS NÃO TÊM UM CONJUNTO DE PLATAFORMA. OS RESULTADOS PODEM SER AINDA MAIS IMPRECISOS QUE O NORMAL! \ N "
-"CONTINUE DE QUALQUER MANEIRA?"
+msgstr "AVISO: ALGUNS DOS SEUS SISTEMAS SELECIONADOS NÃO TÊM UMA PLATAFORMA SELECIONADA. OS RESULTADOS PODEM SER AINDA MAIS IMPRECISOS QUE O NORMAL! \n"
+"CONTINUAR?"
 
 #: 
 msgid "NO GAMES FIT THAT CRITERIA."
@@ -1073,15 +1073,15 @@ msgstr "insira a data de lançamento"
 
 #: 
 msgid "enter game developer"
-msgstr "entrar em desenvolvedor de jogos"
+msgstr "inserir o desenvolvedor do jogo"
 
 #: 
 msgid "enter game publisher"
-msgstr "entrar na editora de jogos"
+msgstr "inserir a editora do jogo"
 
 #: 
 msgid "enter game genre"
-msgstr "entrar no gênero de jogo"
+msgstr "inserir o gênero de jogo"
 
 #: 
 msgid "enter number of players"
@@ -1101,7 +1101,7 @@ msgstr "Região"
 
 #: 
 msgid "enter region"
-msgstr "entrar na região"
+msgstr "inserir região"
 
 #: 
 msgid "Romtype"
@@ -1145,7 +1145,7 @@ msgstr "insira o número de vezes que jogou"
 
 #: 
 msgid "Last played"
-msgstr "Último jogado"
+msgstr "Jogado por Último"
 
 #: 
 msgid "enter last played date"
@@ -1175,7 +1175,7 @@ msgstr "INICIAR"
 
 #: 
 msgid "Times played"
-msgstr "Tempo jogado"
+msgstr "Vezes jogado"
 
 #: 
 msgid "MENU"
@@ -1199,11 +1199,11 @@ msgstr "CLASSIFICAÇÃO,  DESCENDENTE"
 
 #: 
 msgid "TIMES PLAYED, ASCENDING"
-msgstr "TEMPO JOGADO, ASCENDENTE"
+msgstr "VEZES, ASCENDENTE"
 
 #: 
 msgid "TIMES PLAYED, DESCENDING"
-msgstr "TEMPO JOGADO, DESCENDENTE"
+msgstr "VEZES JOGADO, DESCENDENTE"
 
 #: 
 msgid "LAST PLAYED, ASCENDING"
@@ -1223,7 +1223,7 @@ msgstr "MUDAR"
 
 #: 
 msgid "start & end"
-msgstr "início e fim"
+msgstr "início & fim"
 
 #: 
 msgid "always"
@@ -1246,8 +1246,8 @@ msgstr[1] "hace %i s"
 #: 
 msgid "%i min ago"
 msgid_plural "%i mins ago"
-msgstr[0] "hace %i min"
-msgstr[1] "hace %i min"
+msgstr[0] "%i min atrás"
+msgstr[1] "%i min atrás"
 
 #: 
 msgid "%i hour ago"
